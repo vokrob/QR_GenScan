@@ -45,6 +45,7 @@ dependencies {
 
     implementation(libs.androidmads.qrgenerator)
     implementation(libs.core)
+    implementation(libs.me.zbar)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
